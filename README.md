@@ -1,4 +1,3 @@
-# Viggo-Julies-Profile
 # 👋 Hi, I'm Viggo Julies
 
 🎓 **Diploma Student in Software Development**  
